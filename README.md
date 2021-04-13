@@ -1,2 +1,2 @@
 # expo-modalize
-By @jeremybarbet
+Made by @jeremybarbet edited by @0xrfsd
